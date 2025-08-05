@@ -1,0 +1,116 @@
+[33mcommit 9092378831b8943389404bda5f9e05053339e295[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 05:16:19 2025 +0530
+
+    Third commit
+
+[33mcommit a710e62d9cc9f38eeb8dd50b4794263c81837a66[m
+Author: varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 05:16:01 2025 +0530
+
+    second commit
+
+[33mcommit 9e45513f3bbfc37f95da66100324f00586976ae4[m
+Author: varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 05:15:41 2025 +0530
+
+    first commit
+
+[33mcommit c585859808069fe5c303168ea2140a0936489c1c[m
+Author: varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 05:05:41 2025 +0530
+
+    3rd commit
+
+[33mcommit adbc3799e1425236a65880197e3a541da103963d[m
+Author: varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 05:05:01 2025 +0530
+
+    2nd commit
+
+[33mcommit 9b7ea8c66b08e67946195240ae2782e98dafbf91[m
+Author: varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 05:04:34 2025 +0530
+
+    first commit
+
+[33mcommit 29baddd31cdd91e4c3120769b9e56a5a73ffff7b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: c66b931 4f66d87
+Author: Varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 04:33:33 2025 +0530
+
+    commit msg conflict resolution
+
+[33mcommit 4f66d8721865243ffa40a383583246cdf9a68609[m[33m ([m[1;31morigin/feature-2[m[33m, [m[1;32mfeature-2[m[33m)[m
+Author: Varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 04:31:38 2025 +0530
+
+    file2 commit
+
+[33mcommit c66b9316c93009f479a5e36644874298da62b049[m[33m ([m[1;31morigin/feature-1[m[33m, [m[1;32mfeature-1[m[33m)[m
+Author: Varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 04:31:00 2025 +0530
+
+    file1 commit
+
+[33mcommit ab2a9751d867183e72b4f508f644425532c5f59c[m
+Author: Varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 04:26:41 2025 +0530
+
+    commit msgs
+
+[33mcommit 2f2be48dd1622e4300f4c46080f2a7ad62bc2a8a[m
+Merge: 802b6b1 9059a15
+Author: Varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 04:19:47 2025 +0530
+
+    conflict resolution
+
+[33mcommit 9059a15d70020567c20e3bb032e1b1cd7ab3539e[m
+Author: Varun AS <136981119+Varunnas@users.noreply.github.com>
+Date:   Wed Aug 6 09:46:56 2025 +0530
+
+    Update remote.txt
+
+[33mcommit 802b6b1f51cb78c855b241fb1df71fabd021967e[m
+Author: Varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 04:18:46 2025 +0530
+
+    second local update
+
+[33mcommit e24abc2b578e8a27263ab693a549c8e978a7e5a2[m
+Author: Varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 04:15:54 2025 +0530
+
+    commit msg
+
+[33mcommit 54dd7f4e308a3c1ded6cb2b9f5e2621a4b250954[m
+Merge: efa677d d6b36af
+Author: Varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 04:11:21 2025 +0530
+
+    conflict resolution
+
+[33mcommit efa677d91753c142eb64fc2b122e424983814028[m
+Author: Varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 04:08:58 2025 +0530
+
+    readme commit messgae
+
+[33mcommit d6b36af0b438fc53d05132f48d1aa7fc92825dfd[m[33m ([m[1;31morigin/update-readme[m[33m, [m[1;32mupdate-readme[m[33m)[m
+Author: Varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 04:03:54 2025 +0530
+
+    commit readme file
+
+[33mcommit a98ead3790d442899b244aa506dd9fe28db051e8[m
+Author: Varunnas <varunwork2005@gmail.com>
+Date:   Wed Aug 6 03:50:18 2025 +0530
+
+    This is commit for login feature
+
+[33mcommit 5a3eb7e9e9ed682364d957339ae602d5a0d30272[m
+Author: Varun AS <136981119+Varunnas@users.noreply.github.com>
+Date:   Wed Aug 6 09:14:25 2025 +0530
+
+    Initial commit
